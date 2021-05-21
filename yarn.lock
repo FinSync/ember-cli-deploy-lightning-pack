@@ -2594,10 +2594,9 @@ ember-cli-deploy-plugin@^0.2.1, ember-cli-deploy-plugin@^0.2.2, ember-cli-deploy
     core-object "2.0.6"
     lodash.clonedeep "^4.5.0"
 
-ember-cli-deploy-redis@^2.0.0:
+ember-cli-deploy-redis@wongpeiyi/ember-cli-deploy-redis#master:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ember-cli-deploy-redis/-/ember-cli-deploy-redis-2.0.0.tgz#241b2dd9b4487da6bd596669d2bd76cba6c1d98b"
-  integrity sha512-3HYMAVGhG8OTcX1V4TpAMOF68lO20rxcuvAZafs5rmaAk/Ic72yvuH8Ws5Uiban+o1SqdgXbXMV97wQRQ3P3Bw==
+  resolved "https://codeload.github.com/wongpeiyi/ember-cli-deploy-redis/tar.gz/f33220df965826cc7db44912ae03d61328bbde35"
   dependencies:
     chalk "^4.0.0"
     core-object "^3.1.5"
